@@ -221,7 +221,7 @@
       "id": 20,
       "name": "Spicy fries",
       "price": 1000,
-      "image": "https://raw.githubusercontent.com/Laboratoria/burger-queen-api-mock/main/resources/images/french-potatoes.png",
+      "image": "https://raw.githubusercontent.com/Laboratoria/burger-queen-api-mock/main/resources/images/fried-potatoes.png",
       "type": "Sides",
       "dateEntry": "2022-03-05 15:14:10"
     }
