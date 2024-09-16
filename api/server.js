@@ -5,7 +5,7 @@ const auth = require('json-server-auth');
 const middlewares = jsonServer.defaults()
 
 const app = jsonServer.create();
-const dbFile = path.join(__dirname, 'db.json');
+const dbFile = path.join(__dirname, '../db.json');
 const dbData = JSON.parse(fs.readFileSync(dbFile, 'utf-8'));
 const router = jsonServer.router(path.join(__dirname, 'db.json'));
 
