@@ -2,10 +2,10 @@
   "name": "burger-queen-api-mock",
   "version": "1.0.0",
   "description": "A mock of Burger Queen API",
-  "main": "index.js",
+  "main": "api/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node api/server.js"
   },
   "author": "Sergio Sinuco <ssinuco@gmail.com>",
   "license": "MIT",
