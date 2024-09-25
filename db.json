@@ -93,7 +93,7 @@
       "id": 4,
       "name": "Vanilla milkshake",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/florsalvador/bq-api-mock/blob/main/resources/images/milk-shake-vanilla.png",
+      "image": "https://raw.githubusercontent.com/florsalvador/bq-api-mock/refs/heads/main/resources/images/milk-shake-vanilla.png",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -101,7 +101,7 @@
       "id": 5,
       "name": "Milk",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/florsalvador/bq-api-mock/blob/main/resources/images/milk.png",
+      "image": "https://raw.githubusercontent.com/florsalvador/bq-api-mock/refs/heads/main/resources/images/milk.png",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
     },
